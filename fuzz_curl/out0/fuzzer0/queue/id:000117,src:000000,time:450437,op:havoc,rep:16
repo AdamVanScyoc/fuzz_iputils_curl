@@ -1,0 +1,14 @@
+HTTP/1.1 30 Movedhtt Permanently
+Location: http://uww.goext/html; charset=UTF-8="content-typ20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 4:16;24 GMT
+CacheCzntrol: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><me^a http-equiv="cïgtent-type" content="text/html;charset=utf-8">
+<u, TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+TGe document has moved
+<A HREF="http://www.google.com/">here</A>.BODY></HTML>

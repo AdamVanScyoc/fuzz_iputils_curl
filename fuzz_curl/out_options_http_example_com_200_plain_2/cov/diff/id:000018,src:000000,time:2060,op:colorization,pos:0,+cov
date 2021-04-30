@@ -1,0 +1,11 @@
+diff id:000017,src:000000,time:1969,op:colorization,pos:0 -> id:000018,src:000000,time:2060,op:colorization,pos:0,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/transfer.c
+  New 'line' coverage: 1299
+  New 'line' coverage: 1301
+  New 'line' coverage: 1302
+  New 'line' coverage: 1303
+  New 'line' coverage: 1304
+  New 'line' coverage: 596
+  New 'line' coverage: 597
+  New 'line' coverage: 598
+  New 'line' coverage: 780

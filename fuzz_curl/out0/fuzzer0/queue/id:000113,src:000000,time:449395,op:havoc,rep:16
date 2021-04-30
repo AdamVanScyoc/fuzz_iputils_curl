@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permaneved</TITcation: http://www.google.com/
+Content-Type5 gext/hml; charset=UTF-8
+Dote: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Cont{ol: public, max-ag³=2592000
+Server: gws
+00
+Server: gws
+ContenXSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf con-8">
+<TITLE>301 Moved</TIection: 0
+X-Frame-Optio>301 Mo€ed</H1>
+The document has moved
+ÿ HREF="http://ere_/A>.
+</BODY></HTML>

@@ -1,0 +1,7 @@
+# environment variables:
+AFL_COMPCOV_LEVEL=3
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-c' './curl.elf' '-i' 'in_options_http_example_com_200_plain_2' '-o' 'out_options_http_example_com_200_2/' '-S' 'fuzzer1' '--' './curl.elf' '-X' 'OPTIONS' 'http://127.0.0.1'

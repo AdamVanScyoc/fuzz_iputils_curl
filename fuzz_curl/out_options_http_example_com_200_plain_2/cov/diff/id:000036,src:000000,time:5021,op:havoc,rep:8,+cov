@@ -1,0 +1,9 @@
+diff id:000035,src:000000,time:4860,op:havoc,rep:4,+cov -> id:000036,src:000000,time:5021,op:havoc,rep:8,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/http.c
+  New 'line' coverage: 3384
+  New 'line' coverage: 3393
+  New 'line' coverage: 3404
+  New 'line' coverage: 3405
+  New 'line' coverage: 4295
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/strtoofft.c
+  New 'line' coverage: 238

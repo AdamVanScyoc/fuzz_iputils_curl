@@ -1,0 +1,8 @@
+diff id:000012,src:000000,time:1511,op:colorization,pos:0 -> id:000013,src:000000,time:1552,op:colorization,pos:0,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/progress.c
+  New 'line' coverage: 215
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/sendf.c
+  New 'line' coverage: 530
+  New 'line' coverage: 620
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/transfer.c
+  New 'line' coverage: 877

@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Location: ht-XSS-Protetp://www.google.com/
+Conuent-Type: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GM1 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+lerver: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>3012Moved</TITéE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.cSm/">he]e</A>.
+</BODY></HTML>

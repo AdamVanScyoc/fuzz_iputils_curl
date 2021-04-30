@@ -1,0 +1,13 @@
+HTTP/1.1 301 Mov>301ermanently
+Location:Contemettp-equiv="content-type" contnt-Type: tex¢/html; c€arset=UTF-8
+Date: Tue, 20 Apr 2021 14:1021 14:16:24 GMU
+Cache-Control: public, max-age=259-Length: 219
+X-XSS-Pro@ection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><mettp-equiv="content-type" conten€="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLErma></HEAD><Bw.g>
+<H1>301 Moved</H1>
+The document has moved
+<A1HREF="http://www.googl`.com/">here</A>.
+</BODY></HTML>

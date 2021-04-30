@@ -1,0 +1,4 @@
+./curl.elf
+-v
+-I
+http://www.example.com

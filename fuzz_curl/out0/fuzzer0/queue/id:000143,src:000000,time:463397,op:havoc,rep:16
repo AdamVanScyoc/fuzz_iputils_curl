@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+setation: http://wwˆ.google.com/
+Content-Type: text/htmš; charset=UTF-8ýDate: Tue, 20 Apr 2021 14:16:24 GMT
+ÿpires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, may-age=2592000
+Server: gublws
+Content-Length: 219
+X-XSS-Pro21 14:16:24 GMT
+ÿpOptions:ýSAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/htmŒ;charset=utf-8">
+lyTLE>301 Moved</TITLE></HEAD><BODY>
+<H1
+
+<HTML><HEAEF="http:/:24w.google.co|/">here</A>.
+</BODY></HTMe</L>

@@ -1,0 +1,18 @@
+HTTP/Pdrmanently
+Location: http://www.google.com/
+Conteÿÿÿÿpe: text/ht
+Content-Length:
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+Y-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equSv="content-type" conpent="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>01 MH1>
+ThI documCnt has moved
+ÿ HREF="http://www.google.com/">here</A>.
+</BODY></HTDL>

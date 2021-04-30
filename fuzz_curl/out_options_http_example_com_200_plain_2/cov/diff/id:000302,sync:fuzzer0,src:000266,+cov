@@ -1,0 +1,19 @@
+diff id:000301,sync:fuzzer0,src:000265 -> id:000302,sync:fuzzer0,src:000266,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/dynbuf.c
+  New 'line' coverage: 79
+  New 'line' coverage: 80
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/http.c
+  New 'line' coverage: 3813
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/strerror.c
+  New 'function' coverage: curl_easy_strerror()
+  New 'line' coverage: 140
+  New 'line' coverage: 141
+  New 'line' coverage: 57
+  New 'line' coverage: 60
+Src file: /fuzz/fuzz_curl/curl_gcov/src/tool_operate.c
+  New 'line' coverage: 121
+  New 'line' coverage: 127
+  New 'line' coverage: 2365
+  New 'line' coverage: 2389
+  New 'line' coverage: 2403
+  New 'line' coverage: 369

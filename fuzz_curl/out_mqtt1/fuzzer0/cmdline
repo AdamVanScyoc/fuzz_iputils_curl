@@ -1,0 +1,2 @@
+./curl.elf
+mqtt://127.0.0.1/cowboy

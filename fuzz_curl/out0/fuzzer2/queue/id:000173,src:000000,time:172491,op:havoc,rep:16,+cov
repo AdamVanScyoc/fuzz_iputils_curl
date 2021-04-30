@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permƒnently
+Location: http//www.google.com/
+Content-vype: text/html; charset=UTF-8
+Date: T‚e, 20 Apr 2021 1W:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GM-Control: public, max-age=2592000
+Server: gws
+Content-Length: 2222222222222222Ction: 0
+X-Frame-Options: SAMEORIG¾N
+Ü
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf301 Moved<RTITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+Thet has movedÿÿÿHREF="http://www.google.com/">here</A>.
+F/BODY></4TML>

@@ -1,0 +1,6 @@
+diff id:000299,sync:fuzzer0,src:000251 -> id:000300,sync:fuzzer0,src:000257,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/http.c
+  New 'line' coverage: 3890
+  New 'line' coverage: 3892
+  New 'line' coverage: 3910
+  New 'line' coverage: 3912

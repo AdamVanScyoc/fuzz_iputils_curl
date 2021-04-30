@@ -1,0 +1,16 @@
+HTTP/1.1 301 ion: http://www.google.com/
+Content-Type:        ml; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+h-Frame-Options: SAMEORIGIN
+
+<HTML><HE>.-equiv="content-type" content="text/html;charset=utf-8">
+<TITL><HEE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Movud</H1>
+The dgcument has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

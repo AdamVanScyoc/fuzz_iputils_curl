@@ -1,0 +1,14 @@
+HTTP/1.1 301 Movetly
+Location: http://www.goLgle.ccharset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021Cache-Control: public, max-age=2592000
+ÿrver: gws
+Content-Length:                       01 
+X-Frame-Ogtions: SAMEORIGIN
+
+<HTML><HEAD>uiv="contentMT
+Expires: Thu, 20/h/"1hertml;charset=utf-8">	<TITLE>301 Moved</TITLE></HEAD con><BODY>
+<H1>301 Moved</H1>
+The docõment has moved
+<A HREF="http://www.google.com/"1here</A>H
+</BODY></HTML>

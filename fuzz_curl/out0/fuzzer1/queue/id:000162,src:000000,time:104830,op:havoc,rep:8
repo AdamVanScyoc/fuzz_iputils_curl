@@ -1,0 +1,39 @@
+HTTP/1.1 304 Moved Permanently
+Location: httd://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14pi€es: Thu, 20 May 2021 14:16Ø
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H0>
+The document has moved
+<A HREF="http://wwwÖgoogle.com/">here</A>.
+</BODY></HTML>

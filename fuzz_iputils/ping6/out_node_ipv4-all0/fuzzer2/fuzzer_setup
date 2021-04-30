@@ -1,0 +1,5 @@
+# environment variables:
+AFL_COMPCOV_LEVEL=3
+AFL_KILL_SIGNAL=9
+# command line:
+'afl-fuzz' '-c' './ping' '-i' 'in0/' '-o' 'out_node_ipv4-all0/' '-S' 'fuzzer2' '-t' '5000' '--' './ping' '-6' '-c' '1' '-N' 'ipv4-all' '::1'

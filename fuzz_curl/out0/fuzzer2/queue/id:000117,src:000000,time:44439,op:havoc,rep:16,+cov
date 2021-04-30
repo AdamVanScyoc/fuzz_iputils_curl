@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Location: httpÿÿÿÿww.google.com/
+Content-Type: text/html; chars20 May 2021 14:16:24 GMT
+Cache-et=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Ex0pirWs: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-ag‚=2592000
+Server: gwsÿÿContent-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: {\MEORIGIN
+
+<HTML><HEAD><meta e" c GMT
+Chttp-equiv="content-type" content="text/html;ch>rse”=utf-8">
+<TITLE>301 Moved</TITLE></HEAD> BODY>
+<H1>301 Moved</H1>
+The.document has moved
+<A HREF="httptype" c GMT
+Catext/html;char
+</BODY></HTML>

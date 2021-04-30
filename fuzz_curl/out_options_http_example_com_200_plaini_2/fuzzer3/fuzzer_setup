@@ -1,0 +1,8 @@
+# environment variables:
+AFL_COMPCOV_LEVEL=3
+AFL_CUSTOM_MUTATOR_LIBRARY=/AFLplusplus/custom_mutators/radamsa/radamsa-mutator.so
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-i' 'in_options_example_com_200_plain_2' '-o' 'out_options_http_example_com_200_plaini_2/' '-S' 'fuzzer3' '--' './curl.elf' '-X' 'OPTIONS' 'http://127.0.0.1'

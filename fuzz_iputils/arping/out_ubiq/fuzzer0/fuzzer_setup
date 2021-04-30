@@ -1,0 +1,4 @@
+# environment variables:
+AFL_KILL_SIGNAL=9
+# command line:
+'afl-fuzz' '-i' 'in' '-o' 'out_ubiq' '-t' '1000' '-M' 'fuzzer0' '--' '/home/adam/repos/iputils/builddir/arping' '-U' '-f' '-c' '1' '192.168.0.1'

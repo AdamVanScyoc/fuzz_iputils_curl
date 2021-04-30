@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Allow: OPTIONS44F)
+Content-Length: 0, GET, HEAD, POST
+Cèche-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 21 Apr 221 00:50:42 GMT
+E 2021 00:50:42 GMT
+Server: EOS (vny/044F)
+Content-Length: 0
+

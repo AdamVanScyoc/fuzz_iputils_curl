@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved PermanÅntly
+Location: http; cocaion: http; charsetharset=UTF-8
+Date:oo Tue, 20 Apr 20T
+Expires: Thu, 20 May 2021 14:16:24 GT
+Cache-Contrl: public, max-age=2592000
+Servur: gws
+Conaent-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGPN
+
+<HTM4><HEAD><meta http-equiv="conteDY>
+<H1>3ˇˇˇovent-type" content="text/html;charset=utf-8">
+<TITLE6301 Moved</TITLE></HEAD><BODY>
+<H1>3ˇˇˇoved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

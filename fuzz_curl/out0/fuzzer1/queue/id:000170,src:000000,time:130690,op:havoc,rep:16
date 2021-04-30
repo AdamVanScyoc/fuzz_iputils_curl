@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Location: http:/%www.google.com/
+Conÿÿnt-Type: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16Z24 MT
+Expires: Thu, 20 May 2O21 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+ServarA gws
+Content-Length: 219
+XXSS-Protection: 0
+X-Fram
+Content-LenAMEORIGIN
+<HTML><HEAD><meta http-equiv="content-type" content="texttml;charset=u/TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document \as moved
+<A HREF="http://www.google.com/">here</A.
+</BODY></HTM3333333333333333333333333L>

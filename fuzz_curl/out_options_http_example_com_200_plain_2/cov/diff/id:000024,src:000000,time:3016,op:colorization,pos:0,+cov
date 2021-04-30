@@ -1,0 +1,6 @@
+diff id:000023,src:000000,time:2745,op:colorization,pos:0,+cov -> id:000024,src:000000,time:3016,op:colorization,pos:0,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/http.c
+  New 'line' coverage: 3776
+  New 'line' coverage: 3777
+  New 'line' coverage: 3780
+  New 'line' coverage: 3800

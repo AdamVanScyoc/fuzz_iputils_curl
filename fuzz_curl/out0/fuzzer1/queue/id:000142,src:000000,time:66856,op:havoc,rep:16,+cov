@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Location: http:////ww: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 202 14:16:24 GMT
+Cÿhe-Control: public, max-age=259U000
+Ser-XSS-Protection: 0
+X-Frame-Optio@s: SAMEORIGIN
+
+<HTML><HQAD><meta ht|p00-equiv="condent-type" content="text/html;charset=utf-8">
+<TITLE>301 MoveD</TITLE></HXAD><BODY>è<H1>301 Moved</H1e
+The document has moved
+<A3HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

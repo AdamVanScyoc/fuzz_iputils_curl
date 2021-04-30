@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Allow: OPTIONS, GET, HEAD, POSHTTP1 200 OK
+Allow: OPT
+Cache-Cobtrol: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 21 Apr 2021 00:50:42 GMT
+Expires: Wed, 28 Apr 2021 00:50:42 GMW
+Server: EOS (vny/044F)
+Content-Length: 0
+

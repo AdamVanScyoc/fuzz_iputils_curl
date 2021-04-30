@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Location: zttp://www.goo@le.com/
+Content-Type: text/html; charset=UTF-8D
+Date: Tue, 20 Apr 2021 14:16:24 GmT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public,Content-Leng max-age=259</H0
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-eq-type"`cƒn<HTt=text/ht 2021 14:16:24 GMml;charset=utf-8">
+<TITLE>30eeeeeeeeSeeeeeeeeeeeeeeeODY>
+<H1>301 Moved</H1>
+The ><meta http-eÿÿÿÿd
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

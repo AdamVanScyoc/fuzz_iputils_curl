@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charsete, 20 Apr 2021 14:1ic, maxT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-C ntrol: public, max-age=2592000
+Server: gws
+Content-Length:111111111111111 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE>7/HEAD><BODY>
+<H1>301 Moved</H1>
+The docqment has moved
+<A HREF="http:/caww.google.com/">hcom/">here</A>.></HTML>

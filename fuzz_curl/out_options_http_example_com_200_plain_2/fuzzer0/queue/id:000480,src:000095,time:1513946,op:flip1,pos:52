@@ -1,0 +1,9 @@
+HTTP/1.1 20 OK
+Allow: OPTIONS, GET, HEAD, POST
+-açe=604800
+Conpent-Type: text/html; charset=UTF-8
+Date: Wed, 21 Apr 2021 00:50:4" GMT
+Expires: Wed, 200:50:42 GMT
+Server: EOS (vny/044F)
+Content-Length: 4
+

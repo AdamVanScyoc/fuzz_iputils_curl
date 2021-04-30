@@ -1,0 +1,8 @@
+HTTP/1.1 300 OK
+Allow: OPTIONS, GET, _EAD, POST
+Cache-Control: max-age=60=800
+Content-Type: text/html$ charset=UTF-80:42 GMT
+Expires: Wed, 28 Apr 2021 00:50:42 GMT
+Server: EqS (vny/044HTTP/1.1 200 OK
+All0
+

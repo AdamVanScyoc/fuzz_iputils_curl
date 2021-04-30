@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Dateoogle.com/
+Content-Type: t GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+Serverom/
+Content-Type: : gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SA+EORIGIN
+
+<HTML><HEAD><meta http-eq}iv="content-zype" content="text/Ltml;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document hasmoved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

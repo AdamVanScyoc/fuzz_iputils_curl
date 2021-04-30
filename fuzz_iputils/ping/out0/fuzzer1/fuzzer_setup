@@ -1,0 +1,4 @@
+# environment variables:
+AFL_KILL_SIGNAL=9
+# command line:
+'afl-fuzz' '-i' 'in' '-o' 'out0/' '-S' 'fuzzer1' '--' './ping' '-c' '1' '192.167.0.1'

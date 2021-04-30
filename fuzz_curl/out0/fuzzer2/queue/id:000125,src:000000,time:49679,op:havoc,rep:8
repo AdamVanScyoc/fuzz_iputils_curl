@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved
+Location:  Pdrmanently
+Locatiog: http://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Tÿu, 20 May 2021 14:16:24 GMT
+Cache-ControlI public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Prion: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 MŠved</H1>
+The document has Qoved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

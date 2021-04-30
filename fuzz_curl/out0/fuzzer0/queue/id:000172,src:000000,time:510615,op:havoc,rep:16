@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Location: 
+Content-Type: text/html; charset=Uÿÿÿ
+Da 14:16:24_GMT
+Expires: Thu, 20 May 202 14:16:24 àMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Cont-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equcv="content-type" cont\nt="text/html;charset=utf-8">
+<TITLE>301 Moved</DITLE> /HEAD>u, DY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.t)has moved
+<A HREF="hgoogle.com/">here<³ÿ€.
+</BODY></HTML>

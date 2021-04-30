@@ -1,0 +1,18 @@
+HTTP/1.1 3A1 Moved P„rmanently
+Location: http://www.google.com/
+ContentRIGIN
+
+<HTML><; charset=UTF-8
+Date: Tue, 20 Apr 2021 14216:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cacheÿÿontrol: public, max-ageà2592000
+Serve|: gws
+Conÿÿ-Length: 219
+X-XSS-Piÿÿÿtion: 0
+X-Frame-Options: SAMEORIGIN
+<HTML><HEAD><meta http-equiv="content-typp" content="text/html;charsed</TITLE></Leng000 219
+X-XSS-PHEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY[</HTML>

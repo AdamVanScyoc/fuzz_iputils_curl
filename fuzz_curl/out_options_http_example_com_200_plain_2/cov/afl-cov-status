@@ -1,0 +1,3 @@
+afl_cov_pid     : 145361
+afl_cov_version : 0.7.0
+command_line    : /usr/local/bin/afl-cov -d /fuzz/fuzz_curl/out_options_http_example_com_200_plain_2/ --coverage-cmd cat AFL_FILE | /fuzz/fuzz_curl/curl_gcov/src/curl -X OPTIONS http://127.0.0.1 --code-dir . --overwrite

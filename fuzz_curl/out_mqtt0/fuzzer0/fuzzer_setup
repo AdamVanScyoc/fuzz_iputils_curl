@@ -1,0 +1,7 @@
+# environment variables:
+AFL_DEBUG_CHILD=1
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-i' 'in_mqtt0/' '-o' 'out_mqtt0/' '-M' 'fuzzer0' '--' './curl.elf' '-v' 'mqtt://127.0.0.1'

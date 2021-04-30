@@ -1,0 +1,511 @@
+# All functions / lines in this file were executed by at
+# least one AFL test case. See the cov/id-delta-cov file
+# for more information.
+File: /fuzz/fuzz_curl/curl_gcov/include/curl/typecheck-gcc.h
+File: /fuzz/fuzz_curl/curl_gcov/lib/altsvc.c
+    function: Curl_altsvc_cleanup()
+    function: Curl_altsvc_save()
+File: /fuzz/fuzz_curl/curl_gcov/lib/asyn-thread.c
+    function: Curl_resolver_cancel()
+    function: Curl_resolver_cleanup()
+    function: Curl_resolver_global_cleanup()
+    function: Curl_resolver_global_init()
+    function: Curl_resolver_init()
+    function: Curl_resolver_kill()
+    function: destroy_async_data()
+File: /fuzz/fuzz_curl/curl_gcov/lib/base64.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/conncache.c
+    function: Curl_conncache_add_conn()
+    function: Curl_conncache_close_all_connections()
+    function: Curl_conncache_destroy()
+    function: Curl_conncache_find_bundle()
+    function: Curl_conncache_foreach()
+    function: Curl_conncache_init()
+    function: Curl_conncache_remove_conn()
+    function: Curl_conncache_return_conn()
+    function: Curl_conncache_size()
+    function: bundle_add_conn()
+    function: bundle_create()
+    function: bundle_destroy()
+    function: bundle_remove_conn()
+    function: conn_llist_dtor()
+    function: conncache_add_bundle()
+    function: conncache_find_first_connection()
+    function: conncache_remove_bundle()
+    function: free_bundle_hash_entry()
+    function: hashkey()
+File: /fuzz/fuzz_curl/curl_gcov/lib/connect.c
+    function: Curl_addr2string()
+    function: Curl_closesocket()
+    function: Curl_conncontrol()
+    function: Curl_connecthost()
+    function: Curl_is_connected()
+    function: Curl_socket()
+    function: Curl_timeleft()
+    function: ainext()
+    function: bindlocal()
+    function: singleipconnect()
+    function: tcpkeepalive()
+    function: tcpnodelay()
+File: /fuzz/fuzz_curl/curl_gcov/lib/content_encoding.c
+    function: Curl_unencode_cleanup()
+File: /fuzz/fuzz_curl/curl_gcov/lib/cookie.c
+    function: Curl_cookie_cleanup()
+    function: Curl_cookie_freelist()
+    function: Curl_cookie_init()
+    function: Curl_flush_cookies()
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_addrinfo.c
+    function: Curl_freeaddrinfo()
+    function: Curl_he2ai()
+    function: Curl_ip2addr()
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_ctype.c
+    function: Curl_isalnum()
+    function: Curl_isdigit()
+    function: Curl_isspace()
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_endian.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_fnmatch.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_get_line.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_gethostname.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_memrchr.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_range.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_sasl.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/curl_threads.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/dict.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/doh.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/dotdot.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/dynbuf.c
+    function: Curl_dyn_add()
+    function: Curl_dyn_addf()
+    function: Curl_dyn_addn()
+    function: Curl_dyn_free()
+    function: Curl_dyn_init()
+    function: Curl_dyn_len()
+    function: Curl_dyn_ptr()
+    function: Curl_dyn_reset()
+    function: Curl_dyn_vaddf()
+    function: dyn_nappend()
+File: /fuzz/fuzz_curl/curl_gcov/lib/easy.c
+    function: curl_easy_cleanup()
+    function: curl_easy_getinfo()
+    function: curl_easy_init()
+    function: curl_easy_perform()
+    function: curl_global_cleanup()
+    function: curl_global_init()
+    function: easy_perform()
+    function: easy_transfer()
+    function: global_init()
+File: /fuzz/fuzz_curl/curl_gcov/lib/easygetopt.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/easyoptions.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/escape.c
+    function: curl_free()
+File: /fuzz/fuzz_curl/curl_gcov/lib/file.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/fileinfo.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/formdata.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/ftp.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/ftplistparser.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/getenv.c
+    function: GetEnv()
+    function: curl_getenv()
+File: /fuzz/fuzz_curl/curl_gcov/lib/getinfo.c
+    function: Curl_getinfo()
+    function: Curl_initinfo()
+    function: getinfo_long()
+    function: getinfo_slist()
+File: /fuzz/fuzz_curl/curl_gcov/lib/gopher.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/hash.c
+    function: Curl_hash_add()
+    function: Curl_hash_clean()
+    function: Curl_hash_clean_with_criterium()
+    function: Curl_hash_delete()
+    function: Curl_hash_destroy()
+    function: Curl_hash_init()
+    function: Curl_hash_next_element()
+    function: Curl_hash_pick()
+    function: Curl_hash_start_iterate()
+    function: Curl_hash_str()
+    function: Curl_str_key_compare()
+    function: hash_element_dtor()
+    function: mk_hash_element()
+File: /fuzz/fuzz_curl/curl_gcov/lib/hmac.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/hostasyn.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/hostip.c
+    function: Curl_cache_addr()
+    function: Curl_hostcache_clean()
+    function: Curl_hostcache_prune()
+    function: Curl_mk_dnscache()
+    function: Curl_num_addresses()
+    function: Curl_resolv()
+    function: Curl_resolv_timeout()
+    function: Curl_resolv_unlock()
+    function: create_hostcache_id()
+    function: fetch_addr()
+    function: freednsentry()
+    function: hostcache_prune()
+    function: hostcache_timestamp_remove()
+File: /fuzz/fuzz_curl/curl_gcov/lib/hostip6.c
+    function: Curl_ipv6works()
+File: /fuzz/fuzz_curl/curl_gcov/lib/http.c
+    function: Curl_add_custom_headers()
+    function: Curl_add_timecondition()
+    function: Curl_buffer_send()
+    function: Curl_compareheader()
+    function: Curl_copy_header_value()
+    function: Curl_http()
+    function: Curl_http_auth_act()
+    function: Curl_http_body()
+    function: Curl_http_bodysend()
+    function: Curl_http_connect()
+    function: Curl_http_cookies()
+    function: Curl_http_done()
+    function: Curl_http_firstwrite()
+    function: Curl_http_header()
+    function: Curl_http_host()
+    function: Curl_http_method()
+    function: Curl_http_output_auth()
+    function: Curl_http_range()
+    function: Curl_http_readwrite_headers()
+    function: Curl_http_resume()
+    function: Curl_http_statusline()
+    function: Curl_http_target()
+    function: Curl_http_useragent()
+    function: checkhttpprefix()
+    function: checkprefixmax()
+    function: checkprotoprefix()
+    function: get_http_string()
+    function: http_setup_conn()
+    function: http_should_fail()
+    function: use_http_1_1plus()
+File: /fuzz/fuzz_curl/curl_gcov/lib/http2.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/http_aws_sigv4.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/http_chunks.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/http_digest.c
+    function: Curl_http_auth_cleanup_digest()
+File: /fuzz/fuzz_curl/curl_gcov/lib/http_proxy.c
+    function: Curl_connect_free()
+    function: Curl_connect_ongoing()
+    function: Curl_proxy_connect()
+File: /fuzz/fuzz_curl/curl_gcov/lib/if2ip.c
+    function: Curl_ipv6_scope()
+File: /fuzz/fuzz_curl/curl_gcov/lib/imap.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/llist.c
+    function: Curl_llist_count()
+    function: Curl_llist_destroy()
+    function: Curl_llist_init()
+    function: Curl_llist_insert_next()
+    function: Curl_llist_remove()
+File: /fuzz/fuzz_curl/curl_gcov/lib/md4.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/md5.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/memdebug.c
+    function: countcheck()
+    function: curl_dbg_calloc()
+    function: curl_dbg_fopen()
+    function: curl_dbg_free()
+    function: curl_dbg_log()
+    function: curl_dbg_malloc()
+    function: curl_dbg_mark_sclose()
+    function: curl_dbg_realloc()
+    function: curl_dbg_recv()
+    function: curl_dbg_sclose()
+    function: curl_dbg_send()
+    function: curl_dbg_socket()
+    function: curl_dbg_socketpair()
+    function: curl_dbg_strdup()
+File: /fuzz/fuzz_curl/curl_gcov/lib/mime.c
+    function: Curl_mime_cleanpart()
+    function: Curl_mime_initpart()
+    function: cleanup_encoder_state()
+    function: cleanup_part_content()
+    function: curl_mime_free()
+    function: mimesetstate()
+File: /fuzz/fuzz_curl/curl_gcov/lib/mprintf.c
+    function: Curl_dyn_vprintf()
+    function: addbyter()
+    function: alloc_addbyter()
+    function: curl_maprintf()
+    function: curl_mfprintf()
+    function: curl_msnprintf()
+    function: curl_mvaprintf()
+    function: curl_mvsnprintf()
+    function: dprintf_DollarString()
+    function: dprintf_IsQualifierNoDollar()
+    function: dprintf_Pass1()
+    function: dprintf_formatf()
+File: /fuzz/fuzz_curl/curl_gcov/lib/mqtt.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/multi.c
+    function: Curl_attach_connnection()
+    function: Curl_detach_connnection()
+    function: Curl_expire()
+    function: Curl_expire_clear()
+    function: Curl_multi_closed()
+    function: Curl_multi_handle()
+    function: Curl_multi_max_host_connections()
+    function: Curl_multi_max_total_connections()
+    function: Curl_multiplex_wanted()
+    function: Curl_preconnect()
+    function: Curl_set_in_callback()
+    function: Curl_update_timer()
+    function: add_next_timeout()
+    function: before_perform()
+    function: close_connect_only()
+    function: curl_multi_add_handle()
+    function: curl_multi_cleanup()
+    function: curl_multi_info_read()
+    function: curl_multi_perform()
+    function: curl_multi_poll()
+    function: curl_multi_remove_handle()
+    function: curl_multi_setopt()
+    function: hash_fd()
+    function: init_completed()
+    function: mstate()
+    function: multi_addmsg()
+    function: multi_addtimeout()
+    function: multi_deltimeout()
+    function: multi_do()
+    function: multi_done()
+    function: multi_getsock()
+    function: multi_ischanged()
+    function: multi_runsingle()
+    function: multi_timeout()
+    function: multi_wait()
+    function: process_pending_handles()
+    function: protocol_connect()
+    function: sh_getentry()
+    function: sh_init()
+    function: singlesocket()
+File: /fuzz/fuzz_curl/curl_gcov/lib/netrc.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/nonblock.c
+    function: curlx_nonblock()
+File: /fuzz/fuzz_curl/curl_gcov/lib/parsedate.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/pingpong.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/pop3.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/progress.c
+    function: Curl_pgrsDone()
+    function: Curl_pgrsResetTransferSizes()
+    function: Curl_pgrsSetDownloadCounter()
+    function: Curl_pgrsSetDownloadSize()
+    function: Curl_pgrsSetUploadCounter()
+    function: Curl_pgrsSetUploadSize()
+    function: Curl_pgrsStartNow()
+    function: Curl_pgrsTime()
+    function: Curl_pgrsUpdate()
+    function: Curl_ratelimit()
+    function: max5data()
+    function: progress_calc()
+    function: progress_meter()
+    function: time2str()
+File: /fuzz/fuzz_curl/curl_gcov/lib/rand.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/rename.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/rtsp.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/select.c
+    function: Curl_poll()
+    function: Curl_socket_check()
+File: /fuzz/fuzz_curl/curl_gcov/lib/sendf.c
+    function: Curl_client_write()
+    function: Curl_debug()
+    function: Curl_failf()
+    function: Curl_infof()
+    function: Curl_read()
+    function: Curl_recv_plain()
+    function: Curl_send_plain()
+    function: Curl_write()
+    function: chop_write()
+File: /fuzz/fuzz_curl/curl_gcov/lib/setopt.c
+    function: Curl_setstropt()
+    function: Curl_vsetopt()
+    function: curl_easy_setopt()
+    function: setstropt_userpwd()
+File: /fuzz/fuzz_curl/curl_gcov/lib/sha256.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/share.c
+    function: Curl_share_lock()
+    function: Curl_share_unlock()
+    function: curl_share_cleanup()
+    function: curl_share_init()
+    function: curl_share_setopt()
+File: /fuzz/fuzz_curl/curl_gcov/lib/slist.c
+    function: curl_slist_free_all()
+File: /fuzz/fuzz_curl/curl_gcov/lib/smtp.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/socks.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/speedcheck.c
+    function: Curl_speedcheck()
+    function: Curl_speedinit()
+File: /fuzz/fuzz_curl/curl_gcov/lib/splay.c
+    function: Curl_splay()
+    function: Curl_splaygetbest()
+    function: Curl_splayinsert()
+    function: Curl_splayremove()
+File: /fuzz/fuzz_curl/curl_gcov/lib/strcase.c
+    function: Curl_raw_toupper()
+    function: Curl_strcasecompare()
+    function: Curl_strncasecompare()
+    function: curl_strequal()
+    function: curl_strnequal()
+File: /fuzz/fuzz_curl/curl_gcov/lib/strdup.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/strerror.c
+    function: curl_easy_strerror()
+File: /fuzz/fuzz_curl/curl_gcov/lib/strtoofft.c
+    function: curlx_strtoofft()
+File: /fuzz/fuzz_curl/curl_gcov/lib/telnet.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/tftp.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/timeval.c
+    function: Curl_now()
+    function: Curl_timediff()
+    function: Curl_timediff_us()
+File: /fuzz/fuzz_curl/curl_gcov/lib/transfer.c
+    function: Curl_checkheaders()
+    function: Curl_init_CONNECT()
+    function: Curl_posttransfer()
+    function: Curl_pretransfer()
+    function: Curl_readwrite()
+    function: Curl_retry_request()
+    function: Curl_setup_transfer()
+    function: Curl_single_getsock()
+    function: data_pending()
+    function: readwrite_data()
+File: /fuzz/fuzz_curl/curl_gcov/lib/url.c
+    function: ConnectionExists()
+    function: Curl_builtin_scheme()
+    function: Curl_close()
+    function: Curl_connect()
+    function: Curl_disconnect()
+    function: Curl_free_idnconverted_hostname()
+    function: Curl_free_request_state()
+    function: Curl_freeset()
+    function: Curl_idnconvert_hostname()
+    function: Curl_init_do()
+    function: Curl_init_userdefined()
+    function: Curl_is_ASCII_name()
+    function: Curl_open()
+    function: Curl_setup_conn()
+    function: IsMultiplexingPossible()
+    function: allocate_conn()
+    function: check_noproxy()
+    function: conn_free()
+    function: conn_shutdown()
+    function: create_conn()
+    function: create_conn_helper_init_proxy()
+    function: detect_proxy()
+    function: findprotocol()
+    function: override_login()
+    function: parse_connect_to_slist()
+    function: parse_remote_port()
+    function: parseurlandfillconn()
+    function: prune_dead_connections()
+    function: resolve_server()
+    function: set_login()
+    function: setup_connection_internals()
+    function: setup_range()
+    function: strip_trailing_dot()
+    function: up_free()
+File: /fuzz/fuzz_curl/curl_gcov/lib/urlapi.c
+    function: Curl_is_absolute_url()
+    function: Curl_parse_port()
+    function: curl_url()
+    function: curl_url_cleanup()
+    function: curl_url_get()
+    function: curl_url_set()
+    function: free_urlhandle()
+    function: hostname_check()
+    function: junkscan()
+    function: mv_urlhandle()
+    function: parse_hostname_login()
+    function: parseurl()
+    function: seturl()
+File: /fuzz/fuzz_curl/curl_gcov/lib/vauth/cleartext.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/vauth/cram.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/vauth/digest.c
+    function: Curl_auth_digest_cleanup()
+File: /fuzz/fuzz_curl/curl_gcov/lib/vauth/oauth2.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/vauth/vauth.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/version.c
+    function: curl_version_info()
+File: /fuzz/fuzz_curl/curl_gcov/lib/vtls/keylog.c
+File: /fuzz/fuzz_curl/curl_gcov/lib/vtls/vtls.c
+    function: Curl_clone_primary_ssl_config()
+    function: Curl_free_primary_ssl_config()
+    function: Curl_ssl_backend()
+    function: blobdup()
+File: /fuzz/fuzz_curl/curl_gcov/lib/warnless.c
+    function: curlx_sltosi()
+    function: curlx_ultous()
+    function: curlx_uztosi()
+File: /fuzz/fuzz_curl/curl_gcov/lib/wildcard.c
+    function: Curl_wildcard_dtor()
+File: /fuzz/fuzz_curl/curl_gcov/src/slist_wc.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cb_dbg.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cb_hdr.c
+    function: tool_header_cb()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cb_prg.c
+    function: progressbarinit()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cb_rea.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cb_see.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cb_wrt.c
+    function: tool_write_cb()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_cfgable.c
+    function: config_free()
+    function: config_init()
+    function: free_config_fields()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_dirhie.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_easysrc.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_filetime.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_formparse.c
+    function: tool_mime_free()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_getparam.c
+    function: getparameter()
+    function: parse_args()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_getpass.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_help.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_helpers.c
+    function: customrequest_helper()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_homedir.c
+    function: GetEnv()
+    function: homedir()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_hugehelp.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_libinfo.c
+    function: get_libcurl_info()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_main.c
+    function: free_globalconfig()
+    function: main()
+    function: main_checkfds()
+    function: main_free()
+    function: main_init()
+    function: memory_tracking_init()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_msgs.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_operate.c
+    function: add_per_transfer()
+    function: create_transfer()
+    function: del_per_transfer()
+    function: is_fatal_error()
+    function: operate()
+    function: post_per_transfer()
+    function: pre_transfer()
+    function: run_all_transfers()
+    function: serial_transfers()
+    function: single_transfer()
+    function: single_transfer_cleanup()
+    function: transfer_per_config()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_operhlp.c
+    function: output_expected()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_paramhlp.c
+    function: get_args()
+    function: my_useragent()
+    function: new_getout()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_parsecfg.c
+    function: parseconfig()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_progress.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_setopt.c
+    function: tool_setopt()
+    function: tool_setopt_enum()
+    function: tool_setopt_skip()
+    function: tool_setopt_slist()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_sleep.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_urlglob.c
+    function: glob_cleanup()
+    function: glob_fixed()
+    function: glob_next_url()
+    function: glob_parse()
+    function: glob_url()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_util.c
+    function: tvnow()
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_writeout.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_writeout_json.c
+File: /fuzz/fuzz_curl/curl_gcov/src/tool_xattr.c

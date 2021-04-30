@@ -1,0 +1,5 @@
+./curl.elf
+-v
+-T
+@@
+file://localhost/tmp/bbbb

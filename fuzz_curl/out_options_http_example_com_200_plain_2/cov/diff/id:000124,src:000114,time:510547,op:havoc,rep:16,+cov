@@ -1,0 +1,12 @@
+diff id:000123,src:000114,time:510303,op:havoc,rep:8 -> id:000124,src:000114,time:510547,op:havoc,rep:16,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/select.c
+  New 'line' coverage: 288
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/transfer.c
+  New 'line' coverage: 1236
+  New 'line' coverage: 782
+  New 'line' coverage: 783
+  New 'line' coverage: 784
+  New 'line' coverage: 791
+  New 'line' coverage: 794
+  New 'line' coverage: 795
+  New 'line' coverage: 798

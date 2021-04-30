@@ -1,0 +1,21 @@
+diff id:000127,src:000114,time:512414,op:havoc,rep:8 -> id:000128,src:000114,time:514108,op:havoc,rep:2,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/mprintf.c
+  New 'line' coverage: 1004
+  New 'line' coverage: 1022
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/progress.c
+  New 'line' coverage: 100
+  New 'line' coverage: 104
+  New 'line' coverage: 110
+  New 'line' coverage: 45
+  New 'line' coverage: 46
+  New 'line' coverage: 516
+  New 'line' coverage: 517
+  New 'line' coverage: 544
+  New 'line' coverage: 545
+  New 'line' coverage: 55
+  New 'line' coverage: 56
+  New 'line' coverage: 57
+  New 'line' coverage: 61
+  New 'line' coverage: 82
+  New 'line' coverage: 90
+  New 'line' coverage: 94

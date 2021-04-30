@@ -1,0 +1,6 @@
+# environment variables:
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+AFL_KILL_SIGNAL=9
+AFL_SKIP_CPUFREQ=1
+# command line:
+'afl-fuzz' '-i' 'in1_cmin/' '-o' 'out1_cmin/' '-M' 'fuzzer0' '-t' '5000' '--' './clockdiff' '-o1' '-I' '192.168.0.1'

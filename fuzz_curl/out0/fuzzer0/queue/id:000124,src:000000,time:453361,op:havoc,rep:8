@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Location: http:he-Control: public, max-age=259: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: _hu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length, 219
+X-XSS-Protect@oent-Length, 219
+X-XSS-ProtectGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HE MovAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.comE">Zere</A>.
+</BODY></HTML>

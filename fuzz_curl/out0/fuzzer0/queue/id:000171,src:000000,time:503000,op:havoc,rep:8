@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charset=UTF-8: public, max-age=22021 14:16:24 GMPermanently
+Location:T
+Exp4 GMPermanently
+Location:T
+24 GMT
+l: public, max-age=2592000
+Server: gws
+CoSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-eq®iv="content-type" /html;t="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE>1 Moved</H1>
+The docum</HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>

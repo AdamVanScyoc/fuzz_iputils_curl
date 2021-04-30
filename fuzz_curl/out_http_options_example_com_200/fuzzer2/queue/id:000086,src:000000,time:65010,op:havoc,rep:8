@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Allow: OPTIONS, GET, HEAD, POST
+Cache-Control: max-age=604800
+Content-Type: text/hml; charset=UTF-8
+Date: Wed, 21Apr 60L1 00:50:42 GMT
+Expires0:42 -MT
+Server: EOS (vny/044F)
+Content-Length:  
+

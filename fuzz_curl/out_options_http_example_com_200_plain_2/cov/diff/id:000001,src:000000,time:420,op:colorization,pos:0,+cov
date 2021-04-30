@@ -1,0 +1,64 @@
+diff id:000000,time:0,orig:comp_http_options_200_example_com.bin -> id:000001,src:000000,time:420,op:colorization,pos:0,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/connect.c
+  New 'line' coverage: 1633
+  New 'line' coverage: 1635
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/http.c
+  New 'line' coverage: 1633
+  New 'line' coverage: 3825
+  New 'line' coverage: 3827
+  New 'line' coverage: 3828
+  New 'line' coverage: 3829
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/mprintf.c
+  New 'line' coverage: 538
+  New 'line' coverage: 539
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/multi.c
+  New 'function' coverage: hash_fd()
+  New 'function' coverage: sh_getentry()
+  New 'line' coverage: 214
+  New 'line' coverage: 217
+  New 'line' coverage: 2187
+  New 'line' coverage: 2189
+  New 'line' coverage: 219
+  New 'line' coverage: 2191
+  New 'line' coverage: 2192
+  New 'line' coverage: 2312
+  New 'line' coverage: 2314
+  New 'line' coverage: 2332
+  New 'line' coverage: 2337
+  New 'line' coverage: 2338
+  New 'line' coverage: 2710
+  New 'line' coverage: 2712
+  New 'line' coverage: 309
+  New 'line' coverage: 311
+  New 'line' coverage: 314
+  New 'line' coverage: 3187
+  New 'line' coverage: 3188
+  New 'line' coverage: 655
+  New 'line' coverage: 656
+  New 'line' coverage: 657
+  New 'line' coverage: 658
+  New 'line' coverage: 662
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/sendf.c
+  New 'function' coverage: Curl_failf()
+  New 'line' coverage: 269
+  New 'line' coverage: 271
+  New 'line' coverage: 272
+  New 'line' coverage: 276
+  New 'line' coverage: 277
+  New 'line' coverage: 278
+  New 'line' coverage: 280
+  New 'line' coverage: 281
+  New 'line' coverage: 282
+  New 'line' coverage: 284
+  New 'line' coverage: 285
+  New 'line' coverage: 286
+  New 'line' coverage: 288
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/transfer.c
+  New 'line' coverage: 1221
+  New 'line' coverage: 666
+Src file: /fuzz/fuzz_curl/curl_gcov/src/tool_operate.c
+  New 'line' coverage: 2407
+  New 'line' coverage: 2410
+  New 'line' coverage: 367
+  New 'line' coverage: 368
+  New 'line' coverage: 370

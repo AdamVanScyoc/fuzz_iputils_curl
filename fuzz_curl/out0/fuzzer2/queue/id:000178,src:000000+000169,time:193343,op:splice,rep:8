@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Loation: http://www.google.comE
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+HTTP/24 GMT1.1 301 Moved Permane|tly
+Location: http://[wssssssssssssw.google.com/
+Content-Type: text/html; charset=UTF-8Content-Type: text
+Date: Tue, 20 Apr 2021 14:16:24 GaT
+Expires: Thu, 20 May 2021 14:16z24 GMT
+Cache-Coÿÿÿl: public, max-age=2592000
+Server: gws
+Cgntent-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN

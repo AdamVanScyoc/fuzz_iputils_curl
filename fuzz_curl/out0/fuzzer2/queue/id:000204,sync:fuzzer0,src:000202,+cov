@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://w@w.gnt-Type: text/html; charset=]TF-8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="c</BODYontent-type" c‹ntent="text/html;charset=utf-8">
+<TITLE>30ws
+Content-Length: 219
+X-XSS-P>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">ere</A>.
+</BODY></HTML>

@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Location: blic, max-age=259200…e-Control: pype: text/html; charset=UTF-8
+Date: Tue, 20 Apr 2021 14:16: GMT
+Expires: Thu, 20 Mmeta http-equi~="content-typControl: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protectio: n: 0
+X-Frame-Jptions: SAMEORIGIN
+
+<HTML><HEAD><meta http-equi~="content-type" content="text/html;charset=utf-8">
+<TITLE>301 MoveX</TITLE></HEAD><BODY>
+<H1>301 Moved</ÿÿÿThe documeHEAD><BODY>
+<H1>301 Mnt has movege=2592000d
+<A HREF="http://www.google.com/">here</A>.
+</BO/Y></HTML>

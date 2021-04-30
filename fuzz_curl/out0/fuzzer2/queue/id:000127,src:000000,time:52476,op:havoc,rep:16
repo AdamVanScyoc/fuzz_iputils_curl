@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.xom/
+Content-T{pe: text/html; charset=UTF–8
+Date: Tue, 20 Apr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Contdnt-Length: 219
+X-XSS-Protectign: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><: Tuemeta content-type" connt-type" coms;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 ovmd
+<A HREF="http://www.ÿoogle.com/">here</A>.
+</BODy></HTML>

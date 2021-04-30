@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanentlynt-Length: 21
+Location: http://www.google.com/
+Content-Type:            charset=UTF-8
+Date: Tue, 2ÿApr 2021 14:16:24 GMT
+Expires: Thu, 20 May 2021 14:16:24 GXT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-ProtectioÍ: 0
+X-Frame-Options: SA¹EORIGIN
+
+<HTML><HEAD>4meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">hece</A>.
+</BODY></HTML>

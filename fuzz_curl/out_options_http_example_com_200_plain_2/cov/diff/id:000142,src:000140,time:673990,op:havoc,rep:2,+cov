@@ -1,0 +1,3 @@
+diff id:000141,src:000136,time:660999,op:havoc,rep:8,+cov -> id:000142,src:000140,time:673990,op:havoc,rep:2,+cov
+Src file: /fuzz/fuzz_curl/curl_gcov/lib/progress.c
+  New 'line' coverage: 106
